@@ -1,3 +1,6 @@
+// https://heimdallproject.herokuapp.com
+// https://github.com/adavuruku/Heimdall
+
 //create server object
 const http = require('http');
  const app = require('./app');
